@@ -8,7 +8,7 @@ const NavBar = () => {
             <nav className="nav-wrapper gray darken-3">
                 <div className="container">
                     <Link to="/" className="left brand-logo">
-                        mProject Schedule
+                        mProject
                     </Link>
                     <SignedIn />
                     <SignedOut />
